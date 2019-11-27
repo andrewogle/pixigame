@@ -1,0 +1,11 @@
+{
+  "name": "pixigame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrewogle/pixigame.git",
+  "author": "Andrew <andrewryanogle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^5.2.0"
+  }
+}
